@@ -154,5 +154,5 @@ SIMPLE_JWT = {
 }
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://meowsite-backend-production.up.railway.app',
+    'https://web-production-b204.up.railway.app',
 ]
